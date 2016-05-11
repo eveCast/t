@@ -16,6 +16,11 @@ public class Hola {
    
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null,"Hola");
+    
+       JOptionPane.showMessageDialog(null,"Hello");
+    JOptionPane.showMessageDialog(null,"Hi");
+ 
+    
     }
     
 }
